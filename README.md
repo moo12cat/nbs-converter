@@ -136,3 +136,5 @@ Once you're ready, simply load up the world. If you're using the world download,
 ***Note**: You will probably also want to download and use the `Silent_Discs` resource pack in this repo. This replaces all the music disc songs with silence, so you can only hear the note blocks while the machine is running. It's pretty obnoxious without it.*
 
 Then, all you have to do is start it up and enjoy the music! 🎧🎶
+
+for personal use curseforge and add create +wd into a folder in created profile
